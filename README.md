@@ -14,7 +14,7 @@ I'm a student in Lahore, Pakistan, and most of what I build starts with a questi
 
 ## Research
 
-**[UrduExplainBench](https://github.com/sherazhassan7/UrduExplainBench)** compares how well language models explain Grade 6 to 10 science and maths in Urdu versus English. I built it as a student researcher at the Center for Language Engineering, UET Lahore. Urdu explanations scored about a point lower on a 5-point scale, and the paper is under review.
+**[UrduExplainBench](https://github.com/sherazhassan7/UrduExplainBench)** compares how well language models explain Grade 6 to 10 science and maths in Urdu versus English. I built it as a student researcher at the Center for Language Engineering, UET Lahore. Urdu explanations scored about a point lower on a 5-point scale, and the paper is accepted for publication at NHSJS.
 
 **[Educational inequality in Pakistan](https://github.com/sherazhassan7/educational-inequality-pakistan)** is a district-level analysis of the learning gap between government and private schools, using ASER 2023 data on about 214,000 children. I wrote about it for *Pakistan Today* in ["We Never Did the Sums"](https://www.pakistantoday.com.pk/2026/07/28/we-never-did-the-sums-2).
 
